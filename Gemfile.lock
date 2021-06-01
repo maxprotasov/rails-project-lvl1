@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    hexlet_code (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hexlet_code!
+
+BUNDLED WITH
+   1.17.3
